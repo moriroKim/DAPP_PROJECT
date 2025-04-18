@@ -5,8 +5,8 @@
 사용자는 경매에 참여(입찰)하고, 출금할 수 있으며, 경매 주최자는 경매 상태를 확인할 수 있습니다.
 
 ## 시연영상 링크
-- [](https://youtu.be/6VNmBCxeCRA)
-- [](https://www.youtube.com/watch?v=GR2t5FWPvBY)
+- [전체 시연영상](https://youtu.be/6VNmBCxeCRA)
+- [반응형](https://www.youtube.com/watch?v=GR2t5FWPvBY)
 
 ## 프로젝트 참여자
 
